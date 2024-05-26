@@ -7,25 +7,21 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/termsurf/seal.note/blob/make/view/seal.svg?raw=true' height='256'>
+  <img src='https://github.com/termsurf/seal.tree/blob/make/view/seal.svg?raw=true' height='256'>
 </p>
 
-<h3 align='center'>seal.note</h3>
+<h3 align='center'>seal.tree</h3>
 <p align='center'>
-  The BaseNote Runtime Builder Library
+  The BaseTree Runtime Builder Library
 </p>
 
 <br/>
 <br/>
 <br/>
-
-## Welcome
-
-This is the start to collecting mathematical structures from around the web and modeling them in BaseNote.
 
 ## License
 
-Copyright 2021-2023 <a href='https://term.surf'>TermSurf</a>
+Copyright 2021-2024 <a href='https://term.surf'>TermSurf</a>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
